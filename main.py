@@ -31,5 +31,7 @@ print(calcBMax(areaSecTransv))
 #print(magCurve)
 
 
+#ALTERAÇÃO ADICIONADA AO PROJETO
+
 
 
